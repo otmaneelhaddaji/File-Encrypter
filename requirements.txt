@@ -1,2 +1,2 @@
 pathlib==1.0.1 // pip install pathlib 
-pycryptodome==3.9.7 //pip install pathlib  pycryptodom 
+pycryptodome==3.9.7 //pip install pathlib  pycryptodom
